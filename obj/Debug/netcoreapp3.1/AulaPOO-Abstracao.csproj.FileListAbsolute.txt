@@ -1,0 +1,13 @@
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Abstração POO\AulaPOO-Abstracao\bin\Debug\netcoreapp3.1\AulaPOO-Abstracao.exe
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Abstração POO\AulaPOO-Abstracao\bin\Debug\netcoreapp3.1\AulaPOO-Abstracao.deps.json
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Abstração POO\AulaPOO-Abstracao\bin\Debug\netcoreapp3.1\AulaPOO-Abstracao.runtimeconfig.json
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Abstração POO\AulaPOO-Abstracao\bin\Debug\netcoreapp3.1\AulaPOO-Abstracao.runtimeconfig.dev.json
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Abstração POO\AulaPOO-Abstracao\bin\Debug\netcoreapp3.1\AulaPOO-Abstracao.dll
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Abstração POO\AulaPOO-Abstracao\bin\Debug\netcoreapp3.1\AulaPOO-Abstracao.pdb
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Abstração POO\AulaPOO-Abstracao\obj\Debug\netcoreapp3.1\AulaPOO-Abstracao.csprojAssemblyReference.cache
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Abstração POO\AulaPOO-Abstracao\obj\Debug\netcoreapp3.1\AulaPOO-Abstracao.AssemblyInfoInputs.cache
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Abstração POO\AulaPOO-Abstracao\obj\Debug\netcoreapp3.1\AulaPOO-Abstracao.AssemblyInfo.cs
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Abstração POO\AulaPOO-Abstracao\obj\Debug\netcoreapp3.1\AulaPOO-Abstracao.csproj.CoreCompileInputs.cache
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Abstração POO\AulaPOO-Abstracao\obj\Debug\netcoreapp3.1\AulaPOO-Abstracao.dll
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Abstração POO\AulaPOO-Abstracao\obj\Debug\netcoreapp3.1\AulaPOO-Abstracao.pdb
+D:\Desktop\Projetos SENAI\Programação Orientada a Objeto\Abstração POO\AulaPOO-Abstracao\obj\Debug\netcoreapp3.1\AulaPOO-Abstracao.genruntimeconfig.cache
